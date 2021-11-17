@@ -1,0 +1,117 @@
+{
+  "project_info": {
+    "project_number": "198512631690",
+    "firebase_url": "https://chatappandroid-2ac8e-default-rtdb.firebaseio.com",
+    "project_id": "chatappandroid-2ac8e",
+    "storage_bucket": "chatappandroid-2ac8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198512631690:android:ddeb383bb8571ec8fa7273",
+        "android_client_info": {
+          "package_name": "com.example.bookapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198512631690-180tvon32fjg935svtupotq798hu2lbd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bookapp",
+            "certificate_hash": "5825e67bd3df59d4a306bccc25a9111eaa146837"
+          }
+        },
+        {
+          "client_id": "198512631690-23vfpths7liaugm9tobhk92d1mup2hne.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bookapp",
+            "certificate_hash": "61f66e904f0f62ce239e52bdd45c1e1b53003422"
+          }
+        },
+        {
+          "client_id": "198512631690-ce37aqr7acr2kp0fq451o0qvjgn3n4nc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bookapp",
+            "certificate_hash": "41ac98142c088c3c0be9673de717cb518292f37c"
+          }
+        },
+        {
+          "client_id": "198512631690-eg1q7802205on4omeslqd1kf52med9iv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bookapp",
+            "certificate_hash": "cea60a7675f95e578f3d840c58f5a6b97426e23e"
+          }
+        },
+        {
+          "client_id": "198512631690-p2s56djv52452omhstjto4v04omrenr7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bookapp",
+            "certificate_hash": "215c8c3f54729cc7ca6f914960043b64b21bdd4e"
+          }
+        },
+        {
+          "client_id": "198512631690-nupvallm3ervgu4qa49l22b1fsn1tir6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1JiJetR9ZlS7Ou3P1qyqW990q5bQPsL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198512631690-nupvallm3ervgu4qa49l22b1fsn1tir6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198512631690:android:22af7ac95e62d2b6fa7273",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198512631690-kqat8l1tlsm74cr9tfemfvsh6lqlibab.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.whatsapp",
+            "certificate_hash": "41ac98142c088c3c0be9673de717cb518292f37c"
+          }
+        },
+        {
+          "client_id": "198512631690-nupvallm3ervgu4qa49l22b1fsn1tir6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1JiJetR9ZlS7Ou3P1qyqW990q5bQPsL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198512631690-nupvallm3ervgu4qa49l22b1fsn1tir6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
